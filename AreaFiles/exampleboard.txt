@@ -1,0 +1,75 @@
+8 4
+5 2
+0 0 1 0 2 0 3 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+
+
+
+BUTTONS = 4: 90 x 90
+Button colors:
+2 = orange button
+3 = blue button
+4 = yellow button
+5 = purple button
+16 = grey button
+6 = circle purple button
+7 = circle blue button
+8 = circle yellow button
+9 = circle green button
+
+
+SPIKES = 6: 100w, 30h
+spike colors:
+6 = orange spikes
+7 = blue spikes
+8 = yellow spikes
+9 = purple spikes
+17 = grey spikes
+
+JUMP Tile: 90w x 90h
+5<Quadrent>XY = jump pad. the x and the y represent the landing x,y coordinates
+
+FLOOR TILES: 100 x 100
+1 = no floor
+23 = red floor tile
+25 = black floor tile
+29 = white floor tile
+26 = grey floor tile
+21 = water
+
+WALLS: 100w x 30h
+24 = red wall
+27= grey wall
+18 = rope wall
+22 = black wall
+
+SWITCHES/DOORS
+14 = door
+19 = wall switch
+20 = wall screw
+
+OTHER:
+11 = juke box
+15 = screwdriver
+
+EXIT SQUARES:
+12<destination area number><starting location number of the next area><up down left right><exit on the top = 1, or bottom = 2> = 1240 would send them to area 4 at starting location 0
+    up = 1
+    right = 2
+    down = 3
+    left = 4
+
+
+
+
+
+
+
+
+
+
+
+
+
